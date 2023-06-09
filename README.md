@@ -13,7 +13,7 @@
 
 ## Personal HackerRank Profile
 
-For more information about me you can visit my [Hackerrank profile](https://www.hackerrank.com/tincho83352?hr_r=1)
+For more information about me you can visit my [Hackerrank profile](https://www.hackerrank.com/tincho83352?hr_r=1) or [LinkedIn profile](https://www.linkedin.com/in/juan-martin-gallo/)
 
 ## Badges earned
 
