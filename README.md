@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-	This repository consists of solutions to HackerRank prepare section with python, will be updated regularly
+	This repository consists of solutions to HackerRank prepare section with python, will be updated regularly.
 	Be sure to ⭐ this repo so you can keep up to date on any progress!
 </p>
 
