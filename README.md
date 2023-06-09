@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-	This repository consists of solutions to HackerRank prepare section with python, will be updated regularly.df
-	Be sure to ⭐ this repo so you can keep up to date on any daily progress!
+	This repository consists of solutions to HackerRank prepare section with python, will be updated regularly
+	Be sure to ⭐ this repo so you can keep up to date on any progress!
 </p>
 
 ## Personal HackerRank Profile
@@ -18,13 +18,11 @@ For more information about me you can visit my [Hackerrank profile](https://www.
 ## Badges earned
 
 <p align="center">
-    <a href="https://www.hackerrank.com/nathanabela7">
-        <img alt="HackerRank Badge" src="/assets/python-gold-badge.png" width="320" height="165">
-    </a>
-</p
+	<img src="/assets/python-gold-badge.png" alt="HackerRank Badge" width="320" height="165">
+</p>
 
 ### Python
-
+---	
 | Subdomain | Difficulty | Challenge | Solution |
 |:---------:|:----------:|:---------:|:--------:|
 |Introduction|Easy|[Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem)|[Say "Hello, World!" With Python](python/say-hello-world.py)|
