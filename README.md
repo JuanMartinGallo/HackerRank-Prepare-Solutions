@@ -12,7 +12,7 @@
 
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-173-brightgreen.svg?style=for-the-badge">
-	<img src="https://img.shields.io/badge/Language-Python-blue.svg?style=for-the-badge&logo=python">
+	<img src="https://img.shields.io/badge/Languages-Python/SQL-blue.svg?style=for-the-badge&logo=python">
 	<img src="https://img.shields.io/badge/Latest%20Update-6/17/2023-yellow.svg?style=for-the-badge">
 </p>
 
