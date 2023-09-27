@@ -11,9 +11,9 @@
 
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-173-brightgreen.svg?style=for-the-badge">
-	<img src="https://img.shields.io/badge/Languages-Python/SQL-blue.svg?style=for-the-badge&logo=python">
-	<img src="https://img.shields.io/badge/Latest%20Update-6/17/2023-yellow.svg?style=for-the-badge">
+	<img src="https://img.shields.io/badge/Problems%20Solved-201-brightgreen.svg?style=for-the-badge">
+	<img src="https://img.shields.io/badge/Languages-Python/SQL/Java-blue.svg?style=for-the-badge&logo=python">
+	<img src="https://img.shields.io/badge/Latest%20Update-9/26/2023-yellow.svg?style=for-the-badge">
 </p>
 
 <p align="center">
@@ -30,6 +30,7 @@ For more information about me you can visit my [Hackerrank profile](https://www.
 <p align="center">
 	<img src="/assets/python-gold-badge.png" alt="HackerRank Badge" width="320" height="165">
 	<img src="/assets/sql-gold-badge.png" alt="HackerRank Badge" width="320" height="165">
+	<img src="/assets/java-gold-badge.png" alt="HackerRank Badge" width="320" height="165">
 </p>
 
 ### Python
@@ -218,3 +219,38 @@ For more information about me you can visit my [Hackerrank profile](https://www.
 | Alternative Queries |    Easy    |                   [Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1/problem)                   |       [MySQL-Solution](SQL/Alternate%20Queries/draw-the-triangle-1.sql)        |
 | Alternative Queries |    Easy    |                   [Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem)                   |       [MySQL-Solution](SQL/Alternate%20Queries/draw-the-triangle-2.sql)        |
 | Alternative Queries |   Medium   |                   [Print Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers/problem)                   |       [MySQL-Solution](SQL/Alternate%20Queries/print-prime-numbers.sql)        |
+
+### Java
+
+---
+
+|      Subdomain      | Difficulty |                                                          Challenge                                                           |                                    Solution                                    |
+| :-----------------: | :--------: | :--------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------: |
+|        Introduction   	 | Easy | [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java)                                               		 		| [WelcomeToJava.java](Java/Introduction/WelcomeToJava.java)                     				 		|															   |
+|        Introduction         | Easy | [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1)                                		 		| [JavaStdinAndStdoutI.java](Java/Introduction/JavaStdinAndStdoutI.java)           			 		| 														       |
+|        Introduction         | Easy |[Java If-Else](https://www.hackerrank.com/challenges/java-if-else)                                                      		 		| [JavaIfElse.java](Java/Introduction/JavaIfElse.java)				         				 		    | 														       |
+|        Introduction         | Easy |[Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout)                                     		 		| [JavaStdinAndStdoutII.java](Java/Introduction/JavaStdinAndStdoutII.java)       				 		| 														       |
+|        Introduction         | Easy |[Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting)                                  		 		| [JavaOutputFormatting.java](Java/Introduction/JavaOutputFormatting.java)        			 		    | 														       |
+|        Introduction         | Easy |[Java Loops I](https://www.hackerrank.com/challenges/java-loops-i)                                                      		 		| [JavaLoopsI.java](Java/Introduction/JavaLoopsI.java)                           				 		| 	 													       |
+|        Introduction         | Easy |[Java Loops II](https://www.hackerrank.com/challenges/java-loops)                                                       		 		| [JavaLoopsII.java](Java/Introduction/JavaLoopsII.java)                         				 		|       											           |
+|        Introduction         | Easy |[Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes)                                                  		 		| [JavaDatatypes.java](Java/Introduction/JavaDatatypes.java)                      			 			|       											           |
+|        Introduction         | Easy |[Java End-of-file](https://www.hackerrank.com/challenges/java-end-of-file)                                              		 		| [JavaEndOfFile.java](Java/Introduction/JavaEndOfFile.java)                      			 			|       											           |
+|        Introduction         | Easy |[Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem)            		 		| [JavaStaticInitializerBlock.java](Java/Introduction/JavaStaticInitializerBlock.java)         		|       											           |
+|        Introduction         | Easy |[Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string/problem)           					    		 		| [JavaIntToString.java](Java/Introduction/JavaIntToString.java)        						 	 		|       											           |
+|        Introduction         | Easy |[Java Date and Time](https://www.hackerrank.com/challenges/java-date-and-time/problem)           					    		 		| [JavaDateAndTime.java](Java/Introduction/JavaDateAndTime.java)        						 	 		|       											           |
+|        Introduction         | Easy |[Java Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formatter/problem)           								| [JavaCurrencyFormatter.java](Java/Strings/JavaCurrencyFormatter.java)        			 	 		|       											           |
+|           Strings   	      | Easy |[Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-Introduction/problem)           							| [JavaStringsIntroduction.java](Java/Strings/JavaStringsIntroduction.java)        		 	 		|       											           |
+|           Strings   	      | Easy |[Java Substring](https://www.hackerrank.com/challenges/java-substring/problem)           					            		 		| [JavaSubstring.java](Java/Strings/JavaSubstring.java)        		  	 					 		|       											           |
+|           Strings   	      | Easy |[Java Substring Comparisons](https://www.hackerrank.com/challenges/java-string-compare/problem)           							    | [JavaSubstringComparisons.java](Java/Strings/JavaSubstringComparisons.java)        			 		|                                                              |
+|           Strings   	      | Easy |[Java String Reverse](https://www.hackerrank.com/challenges/java-string-reverse/problem)           					    		 		| [JavaStringReverse.java](Java/Strings/JavaStringReverse.java)        						 		|                                                              |
+|           Strings   	      | Easy |[Java Anagrams](https://www.hackerrank.com/challenges/java-anagrams/problem)           					                				| [JavaAnagrams.java](Java/Strings/JavaAnagrams.java)        					    			 		|                                                              |
+|           Strings   	      | Easy |[Java String Tokens](https://www.hackerrank.com/challenges/java-string-tokens/problem)           					    		 		| [JavaStringTokens.java](Java/Strings/JavaStringTokens.java)        					    	 		|                                                              |
+|           Strings   	      | Easy |[Pattern Syntax Checker](https://www.hackerrank.com/challenges/pattern-syntax-checker/problem)           			    		 		| [PatternSyntaxChecker.java](Java/Strings/PatternSyntaxChecker.java)        					 		|                                                              |
+|           Strings   	      | Easy |[Valid Username Regular Expression](https://www.hackerrank.com/challenges/valid-username-checker/problem)               		 		| [ValidUsernameRegularExpression.java](Java/Strings/ValidUsernameRegularExpression.java)      		|                                                              |
+|           Strings   	      | Medium |[Tag Content Extractor](https://www.hackerrank.com/challenges/tag-content-extractor/problem)           									| [TagContentExtractor.java](Java/Strings/TagContentExtractor.java)        					 		|                                                              |
+|           Strings   	      | Medium |[Java Regex](https://www.hackerrank.com/challenges/java-regex/problem)           					               	 			 		| [JavaRegex.java](Java/Strings/JavaRegex.java)        					    	 			 		|                                                              |
+|           Strings   	      | Medium |[Java Regex 2 - Duplicate Words](https://www.hackerrank.com/challenges/duplicate-word/problem)           						 		| [JavaRegex2DuplicateWords.java](Java/Strings/JavaRegex2DuplicateWords.java)        			 		|                                                              |
+|          BigInteger   	  | Easy | [Java BigInteger](https://www.hackerrank.com/challenges/java-biginteger/problem)           				    							| [JavaBigInteger.java](Java/BigNumber/JavaBigInteger.java)        			 				 		|                                                              |
+|          BigInteger   	  | Medium | [Java BigDecimal](https://www.hackerrank.com/challenges/java-bigdecimal/problem)           				    							| [JavaBigDecimal.java](Java/BigNumber/JavaBigDecimal.java)        			 				 		|                                                              |
+|          BigInteger   	  | Easy | [Java Primality Test](https://www.hackerrank.com/challenges/java-primality-test/problem)           		    							| [JavaPrimalityTest.java](Java/BigNumber/JavaPrimalityTest.java)        			 		     		|                                                              |
+|       Data Structures   	  | Easy | [Java 1D Array](https://www.hackerrank.com/challenges/java-1d-array-Introduction/problem)           	    					 		| [Java1DArray.java](Java/DataStructures/Java1DArray.java)        			  				 			|                                                              |
