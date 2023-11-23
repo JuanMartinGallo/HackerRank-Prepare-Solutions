@@ -4,5 +4,21 @@
     "editor.defaultFormatter": "ms-python.black-formatter"
   },
   "python.formatting.provider": "none",
-  "cSpell.words": ["CHAL", "COUNTRYCODE", "Leaderboard", "Ollivander's", "ROWN"]
+  "cSpell.words": [
+    "Arraylist",
+    "Cgpa",
+    "CHAL",
+    "COUNTRYCODE",
+    "encodedhash",
+    "Hashset",
+    "Instanceof",
+    "Leaderboard",
+    "mylist",
+    "Ollivander's",
+    "Primality",
+    "Rockstar",
+    "ROWN",
+    "Subarray",
+    "Varargs"
+  ]
 }
